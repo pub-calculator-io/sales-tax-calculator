@@ -12,9 +12,8 @@ You can use our free sales tax calculator to determine the total cost of a produ
 3. Activate the [Sales Tax Calculator](https://www.calculator.io/sales-tax-calculator/ "Sales Tax Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_sales_tax_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Sales Tax Calculator to the sidebar through the `Appearance -> Widgets -> Sales Tax Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_sales_tax_calculator(); ?>` to your template where you would like the Sales Tax Calculator to appear.
+* Add the shortcode `[ci_sales_tax_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_sales_tax_calculator(); ?>` to your template where you would like the Sales Tax Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/
