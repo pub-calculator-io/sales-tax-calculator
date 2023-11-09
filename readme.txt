@@ -13,6 +13,8 @@ You can use our free sales tax calculator to determine the total cost of a produ
 
 You can use our free sales tax calculator to determine the total cost of a product, including all fees and taxes. Also, be sure to check out the sales tax rates in various U.S. states.
 
+[Sales Tax Calculator Homepage](https://www.calculator.io/sales-tax-calculator/ "Sales Tax Calculator Homepage")
+
 __Shortcode__
 
 Use the Sales Tax Calculator shortcode:
