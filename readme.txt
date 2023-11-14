@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 You can use our free sales tax calculator to determine the total cost of a product, including all fees and taxes. Also, be sure to check out the sales tax rates in various U.S. states.
 
-== Description ==
-
-You can use our free sales tax calculator to determine the total cost of a product, including all fees and taxes. Also, be sure to check out the sales tax rates in various U.S. states.
-
 [https://www.calculator.io/sales-tax-calculator/](https://www.calculator.io/sales-tax-calculator/)
 
-__Sales Tax Calculator Shortcode__
+== Usage ==
+
+Add the Sales Tax Calculator shortcode to your page, post or sidebar:
 
 `[ci_sales_tax_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Sales Tax Calculator to appear:
 
-1. Upload the /ci_sales_tax_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Sales Tax Calculator](https://www.calculator.io/sales-tax-calculator/ "Sales Tax Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Sales Tax Calculator Usage ==
-
-* Add the shortcode `[ci_sales_tax_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_sales_tax_calculator(); ?>` to your template where you would like the Sales Tax Calculator to appear.
+`<?php display_ci_sales_tax_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Sales Tax Calculator Input Form.
 2. The Sales Tax Calculator Calculation Results.
 
-== Libraries used in Sales Tax Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Sales Tax Calculator /ci_sales_tax_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Sales Tax Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Sales Tax Calculator
