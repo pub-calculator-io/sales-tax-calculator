@@ -1,6 +1,6 @@
 === Sales Tax Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: sales tax calculator, total product cost calculation, U.S. state sales tax rates, consumption tax evaluation, government tax levies, municipal sales tax differences, retail purchase taxation, varying state sales tax systems, sales tax revenue sources
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
