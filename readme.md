@@ -1,4 +1,4 @@
-# Sales Tax Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Sales Tax Calculator Widget for WordPress
 
 You can use our free sales tax calculator to determine the total cost of a product, including all fees and taxes. Also, be sure to check out the sales tax rates in various U.S. states.
 
