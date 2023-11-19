@@ -1,4 +1,4 @@
-=== Sales Tax Calculator by www.calculator.io ===
+=== CI Sales tax calculator ===
 Contributors: calculatorio
 Tags: sales tax calculator, total product cost calculation, U.S. state sales tax rates, consumption tax evaluation, government tax levies, municipal sales tax differences, retail purchase taxation, varying state sales tax systems, sales tax revenue sources
 Requires at least: 5.0

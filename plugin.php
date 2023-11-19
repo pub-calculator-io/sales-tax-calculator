@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Sales Tax Calculator by www.calculator.io
+Plugin Name: CI Sales tax calculator
 Plugin URI: https://www.calculator.io/sales-tax-calculator/
 Description: You can use our free sales tax calculator to determine the total cost of a product, including all fees and taxes. Also, be sure to check out the sales tax rates in various U.S. states.
 Version: 1.0.0
