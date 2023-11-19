@@ -7,7 +7,7 @@ You can use our free sales tax calculator to determine the total cost of a produ
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/sales-tax-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /sales-tax-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Sales Tax Calculator](https://www.calculator.io/sales-tax-calculator/ "Sales Tax Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
