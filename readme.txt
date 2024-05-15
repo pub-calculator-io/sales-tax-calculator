@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Sales Tax Calcu
 == Screenshots ==
 
 1. The Sales Tax Calculator Input Form.
-2. The Sales Tax Calculator Calculation Results.
 
 == Installation ==
 

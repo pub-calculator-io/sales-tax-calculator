@@ -28,7 +28,7 @@
             <div class="calculator-setting" id="calculator_form">
                 <div class="calculator-content col">
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col tip-calculator,personal-loan-calculator,apr-calculator  ">
                 			<p class="input__title">Price</p>
                 			<div class="input-field row">
                 					<span class="input-field__hint">$</span>
@@ -36,7 +36,7 @@
                 			</div>
                 		
                 		
-                		</label>		<label class="input col ">
+                		</label>		<label class="input col tip-calculator,personal-loan-calculator,apr-calculator">
                 			
                 			<div class="dropdown-wrapper">
                 				<div class="input-field row " tabindex="0">
@@ -52,7 +52,7 @@
                 			</div>
                 		</label>	</div>
                 	<div class="input-wrapper row">
-                		<label class="input col   ">
+                		<label class="input col tip-calculator,personal-loan-calculator,apr-calculator  ">
                 			<p class="input__title">Sales Tax</p>
                 			<div class="input-field row">
                 				<input type="text" class="input-field__input" placeholder=""  id="sales_tax" value="6.5"  />
@@ -76,13 +76,15 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -97,8 +99,7 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<div class="result-table__wrapper">
 		<table class="result-table">
@@ -110,15 +111,15 @@
 			<tbody>
 				<tr>
 					<th>Price before tax</th>
-					<td id="before-tax">$120.00</td>
+					<td id="before-tax" class="animate">$120.00</td>
 				</tr>
 				<tr>
 					<th>+ Sales tax (<span id="sales-tax-percent">6.5%</span>)</th>
-					<td id="sales-tax">$7.80</td>
+					<td id="sales-tax" class="animate">$7.80</td>
 				</tr>
 				<tr>
 					<th>Price including tax</th>
-					<td id="after-tax">$127.80</td>
+					<td id="after-tax" class="animate">$127.80</td>
 				</tr>
 			</tbody>
 		</table>
